@@ -1,10 +1,3 @@
----
-lang: en-US
-title: Installing etaHEN
----
-
-## Instructions
-
 ### Installing etaHEN (Method 1)
 
 1. Open the Setting menu on your PS5
