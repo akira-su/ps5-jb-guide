@@ -6,7 +6,7 @@ module.exports = {
   locales: locales,
   
   themeConfig: {
-    repo: 'cfw-guide/ps4.cfw.guide',
+    repo: 'adachireii/ps5.cfw.guide',
     adTagOne: 'waldo-tag-',
     adTagTwo: 'waldo-tag-',
     selectLanguageText: '<i class="fas fa-globe"/>',

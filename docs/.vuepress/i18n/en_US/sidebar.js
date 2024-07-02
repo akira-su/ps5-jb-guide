@@ -3,11 +3,8 @@ module.exports = {
     {
       text: 'Guide',
       children: [
-        '/',
-        '/get-started',
-        '/updating-to-9.00',
-        '/installing-poobs4',
-        '/installing-goldhen',
+        '/updating-to-4.51#required-reading',
+        '/installing-etahen#instructions'
       ],
     },
   ],
