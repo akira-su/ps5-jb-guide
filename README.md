@@ -1,5 +1,5 @@
-## ps4.cfw.guide
-A complete PS5 modding guide, from stock to jailbroken.
+## PS5 Jailbreak Guide
+A complete PS5 modding guide, from stock to etaHEN.
 
 ## Running the site locally
 
