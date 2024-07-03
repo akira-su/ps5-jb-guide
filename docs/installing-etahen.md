@@ -34,4 +34,6 @@ You should see a popup on your PS5 showing the FTP, Klog and ELF Loader ports, a
 
 ![A screenshot of Debug Settings at the bottom of the Settings application](../images/ps5debug.jpg)
 
-## Continue to [Installing itemzflow](installing-itemzflow.md)
+## [↩ Updating to 4.51](updating-to-4.51.md)
+
+## [↪ Installing itemzflow](installing-itemzflow.md)

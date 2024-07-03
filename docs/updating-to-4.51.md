@@ -58,4 +58,6 @@ Your PS5 should restart to complete the update. Once finished, you should boot b
 1. Navigate to the "Network" section and open it
 1. To use network functionality, enable "Connect to the Internet"
 
-## Continue to [Installing etaHEN](installing-etahen.md)
+## [↩ Get Started](README.md)
+
+## [↪ Installing etaHEN](installing-etahen.md)

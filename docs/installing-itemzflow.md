@@ -18,3 +18,7 @@
     - Repeat these steps with any other PS5 Homebrew app if you wish
 
 ![A screenshot of itemzflow running on a PS5](../images/itemzflow.png)
+
+## [↩ Get Started](README.md)
+
+## [↩ Installing etaHEN](installing-etahen.md)
