@@ -2,8 +2,11 @@
 
 A complete PS5 modding guide, from stock to etaHEN.
 
-## Required reading
+## Version Table
 
-### If you're on version 4.50 or below, continue to [Updating to 4.51](docs/updating-to-4.51.md)
-### If you're on version 4.51, continue to [Installing etaHEN](docs/installing-etahen.md)
-### Once you installed etaHEN, continue to [Installing itemzflow](docs/installing-itemzflow.md)
+| From | To |
+| ---- | -- |
+| 1.00 | 4.50 | [Updating to 4.51](docs/updating-to-4.51.md) |
+| 4.51 | 4.51 | [Installing etaHEN](docs/installing-etahen.md) |
+
+Once you installed etaHEN, continue to [Installing itemzflow](docs/installing-itemzflow.md)
