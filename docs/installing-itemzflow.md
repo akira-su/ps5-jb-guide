@@ -19,6 +19,6 @@
 
 ![A screenshot of itemzflow running on a PS5](../images/itemzflow.png)
 
-## [↩ Get Started](README.md)
+## [↩ Get Started](../README.md)
 
 ## [↩ Installing etaHEN](installing-etahen.md)
