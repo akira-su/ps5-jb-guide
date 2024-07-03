@@ -10,3 +10,7 @@ A complete PS5 modding guide, from stock to etaHEN.
 | 4.51 | 4.51 | [Installing etaHEN](docs/installing-etahen.md) |
 
 Once you installed etaHEN, continue to [Installing itemzflow](docs/installing-itemzflow.md)
+
+## Credits
+
+See [CREDITS.md](CREDITS.md)
