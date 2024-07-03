@@ -11,7 +11,7 @@ We will ensure that the PS5 uses the update file we want by disabling network co
 ## What you need
 
 - A computer
-- An exFAT or FAT32 formatted USB storage device with ~1,1GB of free space
+- An exFAT formatted USB storage device with ~1,1GB of free space
 - The `PS5UPDATE.PUP` file corresponding to the firmware version you are trying to update to
   - [<i class="fas fa-download"></i> PS5UPDATE.PUP](https://archive.org/download/ps5-official-firmwares/System%20Firmwares/Firmware%2004.51.00/PS5UPDATE.PUP) (4.51)
 
@@ -57,3 +57,5 @@ Your PS5 should restart to complete the update. Once finished, you should boot b
 1. Open the Settings application
 1. Navigate to the "Network" section and open it
 1. To use network functionality, enable "Connect to the Internet"
+
+## Continue to [Installing etaHEN](installing-etahen.md)
