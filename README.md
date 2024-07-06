@@ -15,8 +15,8 @@ A complete PS5 modding guide, from stock to etaHEN.
 
 ## Credits
 
-See [CREDITS.md](refs/CREDITS.md)
+See [CREDITS.md](CREDITS.md)
 
 ## Contributing
 
-See [CONTRIBUTING.md](refs/CONTRIBUTING.md)
+See [CONTRIBUTING.md](CONTRIBUTING.md)
