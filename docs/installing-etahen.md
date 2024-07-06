@@ -32,7 +32,7 @@
 
 You should see a popup on your PS5 showing the FTP, Klog and ELF Loader ports, as well as the etaHEN version. This means that the jailkbreak has been successful. In the Settings application, you should be able to see Debug Settings at the bottom. If you can't see this, try running the exploit again.
 
-![A screenshot of Debug Settings at the bottom of the Settings application](../images/ps5debug.jpg)
+![A screenshot of Debug Settings at the bottom of the Settings application](../images/ps5debugetahen.jpg)
 
 ## [↩ Updating to 4.51](updating-to-4.51.md)
 

@@ -4,6 +4,8 @@
 
 A complete PS5 modding guide, from stock to etaHEN.
 
+![A screenshot of PS5's Debug Settings](images/ps5debugreadme.png)
+
 ## Version Table
 
 | From | To | Related tutorial | Extra tutorial |
@@ -14,3 +16,7 @@ A complete PS5 modding guide, from stock to etaHEN.
 ## Credits
 
 See [CREDITS.md](CREDITS.md)
+
+## Contributing
+
+See [CONTRIBUTING.md](CONTRIBUTING.md)
