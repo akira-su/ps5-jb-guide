@@ -7,3 +7,5 @@ Everyone is welcome to fork this repository and create a Pull Request, both for 
 1. Adding a new tutorial/Correcting an already existing one (those PRs have the highest priority)
 1. Redesigning the docs, **as long as they're compatible with GitHub Pages default theme**
 1. Adding missing credits
+
+## [↩ Get Started](README.md)
