@@ -19,4 +19,4 @@ See [CREDITS.md](CREDITS.md)
 
 ## Contributing
 
-See [`CONTRIBUTING.md`](CONTRIBUTING.md)
+See [CONTRIBUTING](CONTRIBUTING)
