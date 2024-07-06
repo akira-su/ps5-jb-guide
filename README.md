@@ -1,10 +1,6 @@
 <link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico">
 <meta property="og:type" content="website">
-<meta property="og:site_name" content="PS5 Jailbreak Guide">
 <meta property="og:description" content="A complete PS5 modding guide, from stock to etaHEN.">
-<meta property="og:image" content="images/splash.png">
-  
-<link type="application/json+oembed" href="embed.json">
 
 ## PS5 Jailbreak Guide
 
